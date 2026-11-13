@@ -4,6 +4,7 @@
 
 - 源码网站：[当牛作码源码](http://www.xiaoniucr.com/project.html)，目前维护中。
 - 本人B站小店：[https://b23.tv/3MlY35G](https://b23.tv/3MlY35G)，可复制到手机浏览器打开，也可以扫码如下二维码。
+  ![](https://github.com/itcoderyhl/itcoderyhl/blob/main/images/bl.png)
   
 
 ## 郑重承诺
